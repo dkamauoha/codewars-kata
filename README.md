@@ -1,0 +1,1 @@
+This repo contains solutions to various coding exercises that I have completed.
