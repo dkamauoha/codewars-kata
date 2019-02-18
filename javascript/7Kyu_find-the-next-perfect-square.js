@@ -22,4 +22,4 @@ function findNextSquare (sq) {
   OR
 */
 
-const findNextSquare2 = sq => Math.sqrt(sq) % 1 === 0 ? Math.pow(Math.sqrt(sq) +1, 2) : -1;
+ const findNextSquare2 = sq => Math.sqrt(sq) % 1 === 0 ? Math.pow(Math.sqrt(sq) +1, 2) : -1; 
